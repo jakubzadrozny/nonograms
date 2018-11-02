@@ -8,7 +8,7 @@ The input format is as follows:
 - n rows containing each row's description,
 - m rows containing each column's description.
 
-A description of a row or column is simply it's block sizes delimited by spaces, consequently. 
+A description of a row or column is simply it's block sizes delimited by spaces, consequently. <br>
 If any row or column is blank, just put a single 0 in the description.
 
 ## Ouput
